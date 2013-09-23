@@ -1,0 +1,19 @@
+#
+.DS_Store
+*.pro
+
+# Bakups
+*bak
+
+# Archives
+*.zip
+
+# Cache
+*-cache.lib
+
+# Gerber output files
+*.drl
+*.svg
+*-B*
+*-F*
+*-Edge*
